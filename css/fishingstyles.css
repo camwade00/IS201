@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(1, 48, 48, 0.176);}
+.header {border: 5px solid;
+  text-align: center; color: white; border-color: black; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.center {
+    text-align: center; position: relative; top: 5px;
+  }
+.headerfont {
+    font-size: 50px;
+  }
+.pretty{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bold;
+background-color: darkgrey; }
+.prettymain{font-family: 'Times New Roman', Times, serif;
+color: white; background-color: darkslategrey; opacity: 80%;}
+.fixed{position: fixed;
+  bottom: 0;
+  right: 0;}
+  h2{font-size: xx-large;}
+  h1{font-size: 50px;}
